@@ -8,7 +8,8 @@
 
 > 1. What is Flutter ?
 > 2. Explain history of Flutter.
-> 3. Stands for : SDK, IDE, ENV, AVD.   
+> 3. Stands for : SDK, IDE, ENV, AVD, CMD.
+> 4. What is IDE ?
 
 <br><br>
 
@@ -24,10 +25,12 @@
 > 6. Explain dynamic datatype with example.
 > 7. Explain var keyword with example.
 > 8. Diffrent between dynamic and var.
-> 9. Diffrent between const and final keyword.
-> 10. Explain Floor division operator with example.
-> 11. What is String interpolation and why use ?
-> 12. How to take user input in dart? Explain with various data types.	
+> 9. What is Constant ? How to create a constant variables ?
+> 10. Diffrent between const and final keyword.
+> 11. What is Operator ? Explain Operator Typs in detail.
+> 12. Explain Floor division operator with example.
+> 13. What is String interpolation and why use ?
+> 14. How to take user input in dart? Explain with various data types.	
 
 <br>
 
@@ -36,23 +39,25 @@
 <br>
 
 > 1. What is List ? Explain with example.
-> 2. Explain list built in method with example.
-> 3. Explain list types ?
-> 4. Explain Growable list with example.
+> 2. Explain List built in method with example.
+> 3. Explain List types ?
+> 4. Explain Growable List with example.
 > 5. What is fixed length List? How to create it? Give practical example.	
-> 6. How to create fixed length list with example.
+> 6. How to create fixed length List with example.
 > 7. List out the List constructors with examples.
 > 8. Explain Generics in dart and how to assign generics in list ?
 > 9. Explain list.generate() and how to create fixed length list ?
 > 10. Explain list.unmodifiable() with example ?
 > 11. Explain list.empty() with example ?
-> 12. Explain list CRUD operation in dart.
-> 13. Differentiate the forEach and map methods with syntax and example.
-> 14. What is Set ? Explain with example.
-> 15. Diffrent between List and Set.
-> 16. What is Map ? Explain with example.
-> 17. How to create list of map in dart ?
-> 18. How to create a unique list from duplicate elements.
+> 12. Explain list.filled() with example ?
+> 13. Explain list.from() with example
+> 14. Explain list CRUD operation in dart.
+> 15. Differentiate the forEach and map methods with syntax and example.
+> 16. What is Set ? Explain with example.
+> 17. Diffrent between List and Set.
+> 18. What is Map ? Explain with example.
+> 19. How to create list of map in dart ?
+> 20. How to create a unique list from duplicate elements.
 
 <br><br>
 
@@ -67,14 +72,15 @@
 > 4. Explain MaterialApp() widget with Example.
 > 5. Explain SafeArea() widget with Example.
 > 6. Explain Scaffold() widget with Example.
-> 7. Explain Text() widger and why use Text() widget ?
-> 8. Diffrent between runApp() and void main() function.
-> 9. Diffrent between SafeArea() and Scaffold() widget.
-> 10. Explain AppBar widget in detail.
-> 11. How can you give a color property?
-> 12. Explain RichText() widget with example.
-> 13. Explain Text.rich constructor with example.
-> 14. Diffrent between RichText and Text.rich.
+> 7. How to create a widget tree ?
+> 8. Explain Text() widger and why use Text() widget ?
+> 9. Diffrent between runApp() and void main() function.
+> 10. Diffrent between SafeArea() and Scaffold() widget.
+> 11. Explain AppBar widget in detail.
+> 12. How can you give a color property?
+> 13. Explain RichText() widget with example.
+> 14. Explain Text.rich constructor with example.
+> 15. Diffrent between RichText and Text.rich.
 
 <br><br>
 
@@ -104,12 +110,20 @@
 > 20. Diffrent between method(UDF) and data member function.
 > 21. What is custom setter and getter and Why use custom setter and getter?
 > 22. How to create class attributes as public or private?
-> 23. Explain Cascade Operator in dart and why use Cascade Operator ?
-> 24. Explain the use of constructors with their types.
-> 25. Explain the factory constructor with its advantage.
-> 26. What is Inheritance? Explain with examples in detail.
-> 27. What is Exception Handling? Explain with an example.
-> 28. Explain try, on, catch, and finally keywords in detail.
+> 23. What is diffrent between this and super keyword ?
+> 24. How to create a array of object in dart programming language.
+> 25. What us use of late keyword ?
+> 26. Explain Cascade Operator in dart and why use Cascade Operator ?
+> 27. Explain the use of Constructors with their types.
+> 28. Explain the Default and Parameter Constructor in detail with differences.
+> 29. Explain the Named Constructors. Whay was create Named Constructor in dart programming ?
+> 30. Explain the factory Constructor with its advantage.
+> 31. What is Inheritance? Explain with examples in detail.
+> 32. What is Polymorphism ? Explain with types in detail.
+> 33. What is Method Overriding in dart.
+> 34. What is Exception Handling? Explain with an example.
+> 35. Explain try, on, catch, and finally keywords in detail.
+> 36. List out Built in Exception class.
 
 
 <br><br>
@@ -127,10 +141,22 @@
 
 <br><br>
 
-## `Stateless & Stateful Widgets`
+## `General`
 
 <br>
 
 > 1. How many Flutter app lifecycle methods? Explain which state executed when?
 > 2. What is Hot Reload & Hot Restart? Explain in detail.
+> 3. How add any new dependency (package) in flutter with command?
+> 4. Explain YAML language in detail.
+> 5. How to create MediaQuery and Why use MediaQuery in Flutter application.
+> 6. How many types of media come and where?
+> 7. How to add images in Flutter app.
+> 8. What is difference between Image Widget and Image Provider ?
+> 9. What is difference between AssetImage and NetworkImage in Flutter apps ?
+> 10. What is Routing ? Expalin Routing types in detail.
+> 11. Why use routing in flutter apps ?
+> 12. How to use Default Routes in detail.
+> 13. How to use Named Routes in detail.
+> 14. How to use onGenerate Routes in detail.
 
