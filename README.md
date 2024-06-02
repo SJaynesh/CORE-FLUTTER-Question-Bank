@@ -6,10 +6,11 @@
 
 <br>
 
-> 1. What is Flutter ?
-> 2. Explain history of Flutter.
-> 3. Stands for : SDK, IDE, ENV, AVD, CMD.
-> 4. What is IDE ?
+> 1. [What is Flutter ?](https://medium.com/@growsolutions/what-is-flutter-a-complete-guide-to-googles-framework-b51ae5e2fbd5#:~:text=Flutter%20is%20a%20mobile%20app,platforms%20using%20a%20single%20codebase.)
+> 2. [Flutter Latest News](https://medium.com/flutter)
+> 3. [Explain history of Flutter.](https://friflex.medium.com/flutter-a-success-story-9167eb9085e6)
+> 4. Stands for : SDK, IDE, ENV, AVD, CMD.
+> 5. [What is IDE ?](https://medium.com/@rafaelmammadov/what-is-java-what-is-ide-3b2fa48fb6a1#:~:text=IDE%20(Integrated%20Development%20Environment)%20can,and%20help%20us%20see%20errors.)
 
 <br><br>
 
@@ -17,9 +18,9 @@
 
 <br>
 
-> 1. Explain the history of dart.
-> 2. What is variable ? How to declare variable in dart?
-> 3. Explain types Datatype.
+> 1. [Explain the history of dart.](https://medium.com/@author2000.1225/the-history-and-rules-of-dart-language-f25e09a58530)
+> 2. [What is variable ? How to declare variable in dart?](https://medium.com/@MrArc/dart-variables-7dbcc943448d)
+> 3. [Explain types Datatype.](https://medium.com/@arte.bi/dart-variables-and-basic-types-147ee29d7185)
 > 4. Which are the primitive data types in dart? Explain with examples.	
 > 5. Which are the collection data types in dart? Explain with examples.
 > 6. Explain dynamic datatype with example.
@@ -132,11 +133,12 @@
 
 <br>
 
-> 1. What is StatelessWidget?
-> 2. What is StatefulWidget?
+> 1. [What is StatelessWidget?](https://medium.com/@milankathiriya/what-is-statelesswidget-in-flutter-4932bb11e498)
+> 2. [What is StatefulWidget?](https://medium.com/@milankathiriya/what-is-statefulwidget-in-flutter-6e043c4cbda9)
 > 3. What are the differences between StatelessWidget & StatefulWidget?
-> 4. Explain the lifecycle methods of StatefulWidget.
-> 5. Explain differences between initState() & dispose() methods.
+> 4. Explain the lifecycle methods of StatelessWidget.
+> 5. [Explain the lifecycle methods of StatefulWidget.](https://medium.com/@hadiyaaamir222/lifecycle-of-a-stateful-widget-aece2d56c946)
+> 6. Explain differences between initState() & dispose() methods.
 
 
 <br><br>
@@ -151,12 +153,13 @@
 > 4. Explain YAML language in detail.
 > 5. How to create MediaQuery and Why use MediaQuery in Flutter application.
 > 6. How many types of media come and where?
-> 7. How to add images in Flutter app.
-> 8. What is difference between Image Widget and Image Provider ?
-> 9. What is difference between AssetImage and NetworkImage in Flutter apps ?
-> 10. What is Routing ? Expalin Routing types in detail.
-> 11. Why use routing in flutter apps ?
-> 12. How to use Default Routes in detail.
-> 13. How to use Named Routes in detail.
-> 14. How to use onGenerate Routes in detail.
+> 7. What is dependency in Flutter ? How to add dependency in Flutter apps ?
+> 8. How to add images in Flutter app.
+> 9. What is difference between Image Widget and Image Provider ?
+> 10. What is difference between AssetImage and NetworkImage in Flutter apps ?
+> 11. What is Routing ? Expalin Routing types in detail.
+> 12. Why use routing in flutter apps ?
+> 13. How to use Default Routes in detail.
+> 14. How to use Named Routes in detail.
+> 15. How to use onGenerate Routes in detail.
 
