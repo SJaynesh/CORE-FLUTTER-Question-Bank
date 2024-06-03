@@ -122,9 +122,10 @@
 > 31. What is Inheritance? Explain with examples in detail.
 > 32. What is Polymorphism ? Explain with types in detail.
 > 33. What is Method Overriding in dart.
-> 34. What is Exception Handling? Explain with an example.
-> 35. Explain try, on, catch, and finally keywords in detail.
-> 36. List out Built in Exception class.
+> 34. What is Exception ? 
+> 35. How to handle Exception ? Explain with an example.
+> 36. Explain try, on, catch, and finally keywords in detail.
+> 37. List out Built in Exception class.
 
 
 <br><br>
